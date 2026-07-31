@@ -1,14 +1,47 @@
-# Cybersecurity Portfolio
+███████████████████████████████████████████████████
 
-Welcome to my cybersecurity portfolio.
+            FRANCISCO RODRÍGUEZ
+
+        CYBERSECURITY ANALYST
+
+    Linux • Python • SQL • SOC • Blue Team
+
+      "Continuous learning. Practical security."
+
+███████████████████████████████████████████████████
+
+
+# 👋 Welcome to my Cybersecurity Portfolio
+
 
 This repository showcases hands-on projects completed throughout my cybersecurity learning journey, covering areas such as Linux administration, SQL, Python automation, risk management, incident response, identity and access management (IAM), and threat modeling.
 
 Each project demonstrates practical cybersecurity concepts aligned with industry frameworks and best practices while documenting my approach, methodology, and key technical takeaways.
 
+
+-----------------
+
+
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-darkred)
+
+![SOC](https://img.shields.io/badge/SOC-Analyst-blue)
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?logo=google&logoColor=white)
+
+
 ---
 
-# About Me
+## 🚀 About Me
 
 I'm an aspiring Cybersecurity Analyst currently based in Mexico with a strong passion for Blue Team operations, security analysis, and continuous learning.
 
@@ -18,7 +51,7 @@ I enjoy understanding how systems work, identifying potential security risks, an
 
 ---
 
-# Career Objective
+## 🎯 Career Objective
 
 My goal is to begin my professional career as a Cybersecurity Analyst within a Security Operations Center (SOC), where I can contribute to incident detection, investigation, threat analysis, and continuous security improvement.
 
@@ -34,7 +67,26 @@ I am particularly interested in:
 
 ---
 
-# Technical Skills
+
+## ⭐ Highlights
+
+
+✔ Hands-on Cybersecurity Portfolio
+
+✔ Linux | Python | SQL
+
+✔ Blue Team mindset
+
+✔ Security Operations (SOC)
+
+✔ 6 Spoken Languages
+
+✔ Continuous Learner
+
+
+----------------
+
+## 🛠 Technical Skills
 
 ### Operating Systems
 
@@ -77,7 +129,7 @@ I am particularly interested in:
 
 ---
 
-# Tools & Technologies
+## 💻 Tools & Technologies
 
 - Linux
 - Python
@@ -97,22 +149,22 @@ Currently learning:
 
 ---
 
-# Languages
+## 🌎 Languages
 
 One of my strengths is the ability to work in multilingual environments.
 
 | Language | Proficiency |
 |-----------|------------|
 | Spanish | Native |
-| English | Fluent |
-| French | Fluent |
-| Portuguese | Intermediate |
-| Italian | Intermediate |
-| German | Basic |
+| English | Fluent C1 |
+| French | Fluent C1 |
+| Portuguese | Intermediate B2 |
+| Italian | Intermediate B2 |
+| German | Basic A2-B1 |
 
 ---
 
-# Certifications
+## 📜 Certifications
 
 Current:
 
@@ -127,7 +179,7 @@ Planned:
 
 ---
 
-# Portfolio Projects
+## 📂 Portfolio Projects
 
 | Project | Main Skills |
 |----------|-------------|
@@ -144,7 +196,7 @@ Planned:
 
 ---
 
-# Currently Learning
+## 📚 Currently Learning
 
 I'm continuously expanding my cybersecurity skills through:
 
@@ -169,7 +221,7 @@ Future learning goals include:
 
 ---
 
-# Contact
+## 📫 Contact
 
 LinkedIn
 
