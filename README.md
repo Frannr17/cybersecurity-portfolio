@@ -1,13 +1,13 @@
 ███████████████████████████████████████████████████
 
-            FRANCISCO RODRÍGUEZ
+                                      FRANCISCO RODRÍGUEZ
 
-        CYBERSECURITY ANALYST
+                                     CYBERSECURITY ANALYST
 
-    Linux • Python • SQL • SOC • Blue Team
+                            Linux • Python • SQL • SOC • Blue Team
 
-      "Continuous learning. Practical security."
-
+                           "Continuous learning. Practical security."
+ 
 ███████████████████████████████████████████████████
 
 
