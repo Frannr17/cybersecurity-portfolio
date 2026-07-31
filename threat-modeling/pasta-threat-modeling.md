@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies the PASTA (Process for Attack Simulation and Threat Analysis) methodology to evaluate the security posture of a sneaker marketplace application. It identifies potential threats, analyzes vulnerabilities, and recommends appropriate security controls.
+This project applies the Process for Attack Simulation and Threat Analysis (PASTA) methodology to evaluate the security posture of an online sneaker marketplace application.
 
 ---
 
@@ -10,13 +10,13 @@ This project applies the PASTA (Process for Attack Simulation and Threat Analysi
 
 - Threat Modeling
 - Risk Assessment
-- Security Analysis
+- Secure Software Design
 - Vulnerability Analysis
-- Attack Modeling
+- Security Architecture
 
 ---
 
-## Technologies Used
+## Tools & Technologies
 
 - SQL
 - PKI
@@ -28,11 +28,38 @@ This project applies the PASTA (Process for Attack Simulation and Threat Analysi
 ## Frameworks / Concepts
 
 - PASTA
-- Secure Software Development
+- Secure SDLC
 - Risk Management
 
 ---
 
 ## Project Description
 
-...
+The project follows the seven stages of the PASTA methodology to identify business objectives, define technical scope, analyze threats, identify vulnerabilities, model attacks, and recommend security controls for an e-commerce platform.
+
+---
+
+## Objectives
+
+- Identify critical assets.
+- Analyze attack surfaces.
+- Evaluate business risks.
+- Recommend security controls.
+
+---
+
+## Methodology
+
+Each phase of the PASTA framework was completed sequentially, beginning with business analysis and concluding with risk mitigation recommendations based on identified attack vectors and vulnerabilities.
+
+---
+
+## Results
+
+Successfully identified high-risk attack vectors including SQL Injection and Session Hijacking, while recommending security controls such as MFA, secure coding practices, strong authentication, and encryption.
+
+---
+
+## Key Takeaways
+
+Threat modeling provides a proactive approach to identifying weaknesses before deployment, reducing security risks throughout the software development lifecycle.
