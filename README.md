@@ -32,7 +32,7 @@ Each project demonstrates practical cybersecurity concepts aligned with industry
 
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-darkred)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue%20Team-darkblue)
 
 ![SOC](https://img.shields.io/badge/SOC-Analyst-blue)
 
@@ -225,11 +225,10 @@ Future learning goals include:
 
 LinkedIn
 
-*(Add your LinkedIn profile here)*
+
 
 GitHub
 
-https://github.com/YOUR_USERNAME
 
 ---
 
