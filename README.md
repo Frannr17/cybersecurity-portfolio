@@ -107,8 +107,8 @@ One of my strengths is the ability to work in multilingual environments.
 | English | Fluent |
 | French | Fluent |
 | Portuguese | Intermediate |
-| German | Intermediate |
-| Italian | Basic |
+| Italian | Intermediate |
+| German | Basic |
 
 ---
 
